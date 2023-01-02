@@ -4,8 +4,13 @@ This is an implementation of different pathfinding algorithms. It uses DFS, BFS,
 and allows the user to draw their own maze.
 
 Project Completed by:
+
 Ziad Esaam Ezzat          ID - 32020185
+
 Mustafa Essam Mustafa     ID - 32018208
+
 Farouk Muhammed Farouk    ID - 32017163
+
 Youssef Muhammed Ismail   ID - 32020172
+
 Abdulrahman Mouneer Oada  ID - 32020187
